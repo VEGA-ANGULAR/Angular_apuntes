@@ -6,8 +6,9 @@ Teoría inicial y creación de un primer proyecto.
 
 ### Bibliografía y tutoriales
 
-- [Documentación oficial de Angular](https://angular.dev/overview)
-- [Coding potions](https://codingpotions.com/angular/)
-- [Angular Ya](https://www.tutorialesprogramacionya.com/angularya/index.php)
+- <a href="https://angular.dev/overview" target="_blank">Documentación oficial de angular</a>
+- <a href="https://codingpotions.com/angular/" target="_blank">Coding potions</a>
+- <a href="https://www.tutorialesprogramacionya.com/angularya/index.php" target="_blank">Angular Ya</a>
+
 
 
