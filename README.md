@@ -10,7 +10,7 @@ Teoría inicial y creación de un primer proyecto.
 - <a href="https://codingpotions.com/angular/" target="_blank">Coding potions</a>
 - <a href="https://www.tutorialesprogramacionya.com/angularya/index.php" target="_blank">Angular Ya</a>
 
-### Contenido
+### Contenido (Ctrl +, para abrir en nueva pestaña)
 
 - <a href="https://github.com/cvellop-sai/angular-tips" target="_blank">Introducción a proyecto Angular</a>
 - <a href="https://github.com/cvellop-sai/angular_intro_modules" target="_blank">Introducción a módulos</a>
