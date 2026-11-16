@@ -12,7 +12,7 @@ Teoría inicial y creación de un primer proyecto.
 
 ### Contenido
 
-- <a href="https://github.com/cvellop-sai/angular_tips" target="_blank">Introducción a proyecto Angular</a>
+- <a href="https://github.com/cvellop-sai/angular-tips" target="_blank">Introducción a proyecto Angular</a>
 - <a href="https://github.com/cvellop-sai/angular_intro_modules" target="_blank">Introducción a módulos</a>
 
 
