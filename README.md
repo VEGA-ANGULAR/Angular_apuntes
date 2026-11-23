@@ -14,6 +14,6 @@ Teoría inicial y creación de un primer proyecto.
 
 - <a href="https://github.com/cvellop-sai/angular-tips" target="_blank">Introducción a proyecto Angular</a>
 - <a href="https://github.com/cvellop-sai/angular_intro_modules" target="_blank">Introducción a módulos</a>
-
+- <a href="https://github.com/cvellop-sai/angular_formularios_template" target="_blank">Formularios con validación en HTML</a>
 
 
